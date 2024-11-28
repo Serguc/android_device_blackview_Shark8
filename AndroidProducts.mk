@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Shark8.mk
+    $(LOCAL_DIR)/twrp_Shark8.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Shark8-user \
-    omni_Shark8-userdebug \
-    omni_Shark8-eng
+    twrp_Shark8-user \
+    twrp_Shark8-userdebug \
+    twrp_Shark8-eng
