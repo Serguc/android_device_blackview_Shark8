@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/blackview/Shark8/device.mk)
 
 PRODUCT_DEVICE := Shark8
-PRODUCT_NAME := omni_Shark8
+PRODUCT_NAME := twrp_Shark8
 PRODUCT_BRAND := Blackview
 PRODUCT_MODEL := SHARK 8
 PRODUCT_MANUFACTURER := blackview
